@@ -23,4 +23,6 @@ import lombok.Setter;
         private int idade;
 
         private String cidade;
+
+        private String pais;
     }
